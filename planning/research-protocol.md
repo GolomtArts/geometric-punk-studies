@@ -1,6 +1,8 @@
 # Trait verification protocol
 
-The 20 candidate traits in `20-work-plan.csv` are **illustrative only**. They were not derived from a validated top-20 ranking. Do not claim any rank or frequency until the following procedure is completed:
+Study 01’s seven source traits and Male type are verified. Studies 02–20 in `20-work-plan.csv` remain provisional. The current selection principle prioritizes original Punks with the **largest number of accessory traits**, excluding character type. Study 02 research covers the official six-trait group; no candidate is selected yet.
+
+Trait frequencies and rarity rankings have not been independently verified. The following collection-wide procedure is required before claiming independent frequency or rarity results:
 
 1. Identify an authoritative source for all 10,000 CryptoPunks and its exact format/version/date.
 2. Validate completeness: exactly 10,000 unique IDs, one entry per Punk, no missing or duplicated IDs.
@@ -10,4 +12,4 @@ The 20 candidate traits in `20-work-plan.csv` are **illustrative only**. They we
 6. Select eligible base Punk references independently, with attribution and rights review.
 7. Store for every completed study: source ID, source trait list, original artist interpretation, material/chromatic decisions, and a SHA-256 checksum.
 
-**Interpretation decision pending:** “属性最多” could mean (A) the most *common trait types*, or (B) original Punks with the *largest number of traits*. This draft follows A as a tentative working interpretation and does not assert it is the user's final choice.
+**Selection decision:** prioritize the number of accessory traits per original Punk, not the frequency of individual trait types. See [Study 02 candidate research](study-02-candidate-research.md). Source selection, artwork creation, and publication remain separate approvals.

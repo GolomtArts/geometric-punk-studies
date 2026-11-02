@@ -25,3 +25,11 @@ Replaced the outdated `Cap Forward` candidate with `Top Hat` in Study 01 JSON an
 The [current CryptoPunks detail page](https://www.cryptopunks.app/cryptopunks/details/8348) returned HTTP 403 to the verification request. It was not used as evidence. Trait verification does not approve commercial derivative rights.
 
 Checks: all 20 JSON files parse; the CSV retains 20 rows and seven columns. Study 01 title, artist-approved status, image filename, SHA-256, dimensions, and other artwork specifications are unchanged. Artwork and reference image bytes, Studies 02–20 metadata and CSV rows, gallery, and README are unchanged. Commercial derivative-rights review remains pending; blockchain fields remain null. Pages stays disabled. No contract deployment or minting was performed.
+
+## Status text and Study 02 research update
+
+Reviewed 2026-11-02. README and gallery now distinguish #8348’s verified seven traits and Male type from independently unverified trait frequencies and rarity rankings. Composition No. 8348 remains artist-approved; Studies 02–20 remain provisional. Supporting gallery documentation and the research protocol reflect this distinction and the artist’s accessory-count selection principle.
+
+[Study 02 research](study-02-candidate-research.md) documents all 11 candidates returned by the [official six-attribute search](https://www.cryptopunks.app/cryptopunks/search?query=%226%20Attributes%22). Each current detail page lists exactly six distinct accessory names and a separate type. The published group total is also cross-checked with Larva Labs’ catalog and archive count table. This is not an independent full-dataset frequency or rarity audit. Recommendations #4121, #8152, and #2202 are curatorial opinions, not finalized assignments.
+
+Composition No. 8348, all metadata files, all images, and every CSV row are unchanged. The gallery retains one approved artwork and 19 placeholders; its original image path and script are unchanged. Source links and repository paths were checked. Rights review remains pending. Pages is disabled; no deployment, minting, or Study 02 artwork creation was performed.
