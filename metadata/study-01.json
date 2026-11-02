@@ -10,11 +10,29 @@
   "reference": {
     "source_collection": "CryptoPunks",
     "source_punk_id": 8348,
-    "source_traits_verified": [],
-    "candidate_trait_for_research": "Cap Forward",
-    "source_attribution": "Larva Labs; original source imagery and usage rights require verification",
-    "source_selection": "Artist-provided reference; source attributes and rarity remain unverified.",
-    "style_reference_filename": "assets/reference/study-01-reference.jpg"
+    "source_traits_verified": [
+      "Cigarette",
+      "Buck Teeth",
+      "Classic Shades",
+      "Earring",
+      "Top Hat",
+      "Big Beard",
+      "Mole"
+    ],
+    "candidate_trait_for_research": "Top Hat",
+    "source_attribution": "Larva Labs; source type and trait names verified. Commercial derivative-rights review pending.",
+    "source_selection": "Artist-selected CryptoPunk #8348; type and seven source traits verified against Larva Labs catalog and official archive. Rarity not assessed.",
+    "style_reference_filename": "assets/reference/study-01-reference.jpg",
+    "source_type": "Male",
+    "source_verification": {
+      "verified_on": "2026-11-02",
+      "sources": [
+        "https://www.larvalabs.com/catalog/cryptopunks/8348",
+        "https://archive.larvalabs.com/cryptopunks/details/8348"
+      ],
+      "method": "Cross-checked exact names and seven-attribute count on both primary-source pages. Male is recorded separately as type.",
+      "current_site_access": "https://www.cryptopunks.app/cryptopunks/details/8348 returned HTTP 403; not used as verification evidence."
+    }
   },
   "visual_language": {
     "palette": [
