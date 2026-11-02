@@ -3,16 +3,18 @@
   "series": "Geometric Punk Studies",
   "artist": "Astral Lyrism",
   "work_number": 1,
-  "working_title": "Blue Cap Geometry",
-  "status": "reference-only",
-  "edition": "1/1 (proposed; not minted)",
-  "description": "Original geometric abstraction study using primary-color composition and bold black partitions, informed by the concept of trait-based portraiture.",
+  "working_title": "Composition No. 8348",
+  "status": "artist-approved",
+  "edition": "1/1 (planned, not minted)",
+  "description": "Composition No. 8348 by Astral Lyrism, artwork 01/20 in Geometric Punk Studies. A geometric abstraction of artist-selected CryptoPunk #8348, inspired by Piet Mondrian and De Stijl, using primary-color planes and bold black partitions. Artist-approved; edition 1/1 planned, not minted. Commercial derivative-rights review pending.",
   "reference": {
     "source_collection": "CryptoPunks",
-    "source_punk_id": null,
+    "source_punk_id": 8348,
     "source_traits_verified": [],
     "candidate_trait_for_research": "Cap Forward",
-    "source_attribution": "Larva Labs; original source imagery and usage rights require verification"
+    "source_attribution": "Larva Labs; original source imagery and usage rights require verification",
+    "source_selection": "Artist-provided reference; source attributes and rarity remain unverified.",
+    "style_reference_filename": "assets/reference/study-01-reference.jpg"
   },
   "visual_language": {
     "palette": [
@@ -27,12 +29,22 @@
       "primary-color planes",
       "heavy black linear partitions",
       "asymmetric balancing"
-    ]
+    ],
+    "style": "Geometric abstraction inspired by Piet Mondrian and De Stijl"
   },
   "artwork": {
-    "filename": null,
-    "sha256": null,
-    "dimensions": null
+    "filename": "assets/works/composition-no-8348.png",
+    "sha256": "7bb8b6d8990a09cf0c94079ed41ef9b1d23462e83a1d9267acfb2a1c88ca0d91",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "unit": "px"
+    },
+    "format": "PNG",
+    "mime_type": "image/png",
+    "file_size_bytes": 1756455,
+    "color_mode": "RGB",
+    "bits_per_channel": 8
   },
   "blockchain": {
     "network": null,
@@ -40,5 +52,7 @@
     "token_id": null,
     "transaction_hash": null
   },
-  "rights_review": "pending"
+  "rights_review": "pending",
+  "title": "Composition No. 8348",
+  "artwork_number": "01/20"
 }

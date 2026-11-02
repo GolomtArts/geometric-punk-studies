@@ -1,22 +1,28 @@
 # Geometric Punk Studies
 
-20 proposed geometric portraits by Astral Lyrism, exploring trait-based composition through primary colors and bold black lines.
+20 geometric portraits by Astral Lyrism, inspired by Piet Mondrian and De Stijl.
+
+## First artwork
+
+**Composition No. 8348** — 01/20, artist-approved. Reference: CryptoPunk #8348 (artist-selected). Edition: 1/1 planned, not minted.
+
+![Composition No. 8348](assets/works/composition-no-8348.png)
 
 ## Status
 
-- Public repository. Study 01 has an artist-provided reference; Studies 02–20 are proposals.
-- Artwork creation, final approval, GitHub Pages, contract deployment, and NFT minting remain unapproved. Nothing has been deployed or minted.
-- All 20 candidate trait assignments and individual titles are provisional. Source Punk IDs, traits, frequencies, and rankings await authoritative verification. Study numbers are internal IDs.
-- Metadata is draft-only. Provenance and rights review remain pending.
+- Public repository. Study 01 is completed; Studies 02–20 remain proposals.
+- Source attributes, candidate traits, frequencies, and rankings remain unverified.
+- Commercial derivative-rights and provenance review remain pending.
+- GitHub Pages, contract deployment, and NFT minting remain unapproved. Nothing has been deployed or minted.
 
 ## Files
 
-- `assets/reference/study-01-reference.jpg` — original artist reference, not a final master.
+- `assets/works/composition-no-8348.png` — original artwork, unchanged.
+- `assets/reference/study-01-reference.jpg` — earlier style reference, separate from the approved artwork.
+- `metadata/` — artwork details and draft planning records.
 - `planning/20-work-plan.csv` — 20-study plan. “High-frequency traits” is an unverified goal.
 - `planning/research-protocol.md` — source verification method.
-- `metadata/` — 20 draft records.
-- `docs/` — undeployed gallery prototype.
-- `assets/works/` — future location for approved artwork; not created yet.
+- `docs/` — undeployed gallery; artwork copy is byte-identical to the original.
 
 ## Sources
 
