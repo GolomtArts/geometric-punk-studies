@@ -1,0 +1,44 @@
+{
+  "schema_version": "0.1-draft",
+  "series": "Geometric Punk Studies (working title)",
+  "artist": "Astral Lyrism",
+  "work_number": 2,
+  "working_title": "Angular Shades",
+  "status": "planned",
+  "edition": "1/1 (proposed; not minted)",
+  "description": "Original geometric abstraction study using primary-color composition and bold black partitions, informed by the concept of trait-based portraiture.",
+  "reference": {
+    "source_collection": "CryptoPunks",
+    "source_punk_id": null,
+    "source_traits_verified": [],
+    "candidate_trait_for_research": "3D Glasses",
+    "source_attribution": "Larva Labs; original source imagery and usage rights require verification"
+  },
+  "visual_language": {
+    "palette": [
+      "blue",
+      "red",
+      "yellow",
+      "white",
+      "black",
+      "muted blue-gray"
+    ],
+    "techniques": [
+      "primary-color planes",
+      "heavy black linear partitions",
+      "asymmetric balancing"
+    ]
+  },
+  "artwork": {
+    "filename": null,
+    "sha256": null,
+    "dimensions": null
+  },
+  "blockchain": {
+    "network": null,
+    "contract_address": null,
+    "token_id": null,
+    "transaction_hash": null
+  },
+  "rights_review": "pending"
+}
