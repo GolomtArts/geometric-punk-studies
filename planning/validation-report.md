@@ -33,6 +33,16 @@ Preserve the original CryptoPunk silhouette, head proportions, facial structure,
 
 - All 20 JSON files parse. The CSV has 20 rows and seven columns. Study 02 title, source ID, six verified names, and approval status agree across records.
 - Study 01 and Studies 03–20 metadata and CSV rows are unchanged. Study 02 blockchain fields are null; commercial derivative-rights review remains pending.
-- Gallery: 20 cards, two approved images, 18 placeholders. CSS layout and `object-fit: contain` behavior are preserved; Study 01’s rendered card is unchanged. Image paths and dimensions resolve to the archived originals.
+- Gallery: 20 cards, two approved images, 18 placeholders. CSS layout, image paths, and `object-fit: contain` behavior are preserved; public card captions now show artwork number, source reference, and edition. Image paths and dimensions resolve to the archived originals.
 - Source research is preserved as historical comparison, with #4121’s later approval recorded. README, gallery documentation, and protocol now reflect two completed works.
 - GitHub Pages remains disabled. No deployment workflow, contracts, or minting were added or executed. Intellectual-property and derivative-rights notices remain in place.
+
+## Public catalogue presentation — 2026-11-03
+
+The public README and gallery now emphasize Astral Lyrism, the collection, and Artistic Vision. The supplied three-paragraph Artistic Vision replaces public technical creation instructions, which remain preserved in this report, the research protocol, and Study 02 metadata.
+
+The README artwork table has four columns: Artwork, Title, Reference, Edition. Both image links are unchanged. Approval labels and internal workflow explanations are removed from public presentation; gallery placeholders are labeled forthcoming. The public edition display is `1/1`, accompanied by an explicit statement that no NFTs have been minted. This changes presentation only: approval, planned editions, and all null blockchain fields remain as recorded in metadata.
+
+Research, verified traits and types, provenance information, and technical records are retained in planning documents and metadata. Commercial derivative-rights and provenance review remain pending; intellectual-property and reuse notices are preserved in public text. GitHub Pages remains disabled, with no contract deployment or minting.
+
+Validation: all artwork and reference images, filenames, SHA-256 values, all 20 metadata records, and the full CSV are unchanged. The gallery retains 20 cards, two original artwork images, and 18 forthcoming placeholders. Existing CSS and image-display behavior are unchanged; JSON, image paths, local documentation links, HTML nesting, and gallery JavaScript are checked.
