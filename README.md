@@ -11,9 +11,10 @@
 ## Status
 
 - Public repository. Study 01 is completed; Studies 02–20 remain proposals.
-- Source attributes, candidate traits, frequencies, and rankings remain unverified.
+- CryptoPunk #8348’s seven traits and Male type are verified against [Larva Labs catalog](https://www.larvalabs.com/catalog/cryptopunks/8348) and [official archive](https://archive.larvalabs.com/cryptopunks/details/8348).
+- Trait frequencies and rarity rankings have not been independently verified. Studies 02–20 remain provisional; Study 02 candidates are researched, not selected.
 - Commercial derivative-rights and provenance review remain pending.
-- GitHub Pages, contract deployment, and NFT minting remain unapproved. Nothing has been deployed or minted.
+- GitHub Pages and NFT minting are inactive. Pages, contract deployment, and minting remain unapproved; no contract has been deployed.
 
 ## Files
 
@@ -22,6 +23,7 @@
 - `metadata/` — artwork details and draft planning records.
 - `planning/20-work-plan.csv` — 20-study plan. “High-frequency traits” is an unverified goal.
 - `planning/research-protocol.md` — source verification method.
+- [Study 02 candidate research](planning/study-02-candidate-research.md) — all 11 official six-trait candidates and three recommendations; selection pending.
 - `docs/` — undeployed gallery; artwork copy is byte-identical to the original.
 
 ## Sources
