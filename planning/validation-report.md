@@ -1,35 +1,38 @@
 # Artwork validation review
 
-Reviewed 2026-11-02 for Composition No. 8348.
+Reviewed 2026-11-03. **Two artist-approved artworks out of twenty.** Studies 03–20 remain provisional.
 
-- Study 01: artist-approved, title Composition No. 8348, artist Astral Lyrism, collection Geometric Punk Studies, artwork 01/20, edition 1/1 planned, not minted.
-- CryptoPunk #8348 is the artist-selected reference. Its type and seven traits are now verified below. No frequencies, rankings, or rarity statistics were added; Studies 02–20 remain unverified.
-- Original PNG and gallery copy: 1254 × 1254 px, RGB, 8 bits per channel, 1,756,455 bytes. Both are byte-identical to the supplied file.
-- SHA-256: `7bb8b6d8990a09cf0c94079ed41ef9b1d23462e83a1d9267acfb2a1c88ca0d91`.
-- All 20 metadata records parse. The CSV retains 20 rows and seven columns. Study 01 title, source ID, and approval status agree across metadata, CSV, README, and gallery.
-- Gallery: 20 cards, one approved artwork and 19 placeholders; image paths resolve. Embedded JavaScript syntax and HTML structure checked.
-- Studies 02–20 and both earlier style-reference images are unchanged.
-- Commercial derivative-rights review remains pending. Blockchain fields remain null. No deployment workflow was added; Pages, contracts, and minting remain unapproved.
+## Approved inventory
 
-## CryptoPunk #8348 trait correction
+| Artwork | Title | Source / type | Status | Edition |
+| --- | --- | --- | --- | --- |
+| 01/20 | Composition No. 8348 | CryptoPunk #8348 / Male | Artist-approved | 1/1 planned, not minted |
+| 02/20 | Composition No. 4121 | CryptoPunk #4121 / Male | Artist-approved, final artwork | 1/1 planned, not minted |
 
-Verified 2026-11-02 against two primary sources:
+## Image integrity
 
-- [Larva Labs catalog — CryptoPunk #8348](https://www.larvalabs.com/catalog/cryptopunks/8348)
-- [Larva Labs official archive — CryptoPunk #8348](https://archive.larvalabs.com/cryptopunks/details/8348)
+- #8348: PNG, 1254 × 1254 px, RGB, 8 bits/channel, 1,756,455 bytes. Original artwork, gallery copy, and all Study 01 metadata remain unchanged from main before this update.
+- #8348 SHA-256: `7bb8b6d8990a09cf0c94079ed41ef9b1d23462e83a1d9267acfb2a1c88ca0d91`.
+- #4121: supplied file is PNG, 1254 × 1254 px, RGB, 8 bits/channel, 1,437,315 bytes. Archived at `assets/works/composition-no-4121.png` and mirrored at `docs/assets/composition-no-4121.png`; both match the supplied file byte for byte. No conversion, resizing, cropping, recompression, or other modification.
+- #4121 SHA-256: `b6d63e83b310b124cdbd593a5da7e27c939c854f8c5df1f7ad4a5578eb24c25d`.
+- Earlier style-reference JPEGs remain separate and unchanged.
 
-Both list the same seven exact trait names: **Cigarette, Buck Teeth, Classic Shades, Earring, Top Hat, Big Beard, Mole**. The catalog identifies **Male** separately as the type; it is not an eighth trait. Trait order follows the archive.
+## Source verification
 
-Replaced the outdated `Cap Forward` candidate with `Top Hat` in Study 01 JSON and CSV. The JSON verified-trait array and CSV `verified_source_traits` now contain the same seven names. The existing CSV column name `candidate_trait_to_verify` is retained for compatibility; Study 01's value is verified by the adjacent trait list and JSON source references.
+On 2026-11-03, the [official CryptoPunks #4121 page](https://www.cryptopunks.app/cryptopunks/details/4121) returned HTTP 200 and confirmed **Male** type and exactly six accessory traits: **Spots, Silver Chain, Chinstrap, Earring, Mohawk, Cigarette**. Type is not an additional accessory. No discrepancy with the artist-provided information was found.
 
-The [current CryptoPunks detail page](https://www.cryptopunks.app/cryptopunks/details/8348) returned HTTP 403 to the verification request. It was not used as evidence. Trait verification does not approve commercial derivative rights.
+The [Larva Labs catalog URL](https://www.larvalabs.com/catalog/cryptopunks/4121) and [Larva Labs archive URL](https://archive.larvalabs.com/cryptopunks/details/4121) were not accessible through the browsing tool during this update; they were not used as fresh evidence. The accessible current official detail page supplies all six names and the count. No collection-wide trait frequencies or rarity statistics were calculated.
 
-Checks: all 20 JSON files parse; the CSV retains 20 rows and seven columns. Study 01 title, artist-approved status, image filename, SHA-256, dimensions, and other artwork specifications are unchanged. Artwork and reference image bytes, Studies 02–20 metadata and CSV rows, gallery, and README are unchanged. Commercial derivative-rights review remains pending; blockchain fields remain null. Pages stays disabled. No contract deployment or minting was performed.
+Study 01’s prior verification is preserved: [Larva Labs catalog #8348](https://www.larvalabs.com/catalog/cryptopunks/8348) and [official archive #8348](https://archive.larvalabs.com/cryptopunks/details/8348) confirm Male and Cigarette, Buck Teeth, Classic Shades, Earring, Top Hat, Big Beard, Mole. Its metadata has not been rewritten or reinterpreted.
 
-## Status text and Study 02 research update
+## Artistic principle
 
-Reviewed 2026-11-02. README and gallery now distinguish #8348’s verified seven traits and Male type from independently unverified trait frequencies and rarity rankings. Composition No. 8348 remains artist-approved; Studies 02–20 remain provisional. Supporting gallery documentation and the research protocol reflect this distinction and the artist’s accessory-count selection principle.
+Preserve the original CryptoPunk silhouette, head proportions, facial structure, and neck extending directly to the lower canvas boundary. Apply geometric abstraction primarily through internal color planes and structural divisions. Do not introduce additional shoulders or artificial neck extensions.
 
-[Study 02 research](study-02-candidate-research.md) documents all 11 candidates returned by the [official six-attribute search](https://www.cryptopunks.app/cryptopunks/search?query=%226%20Attributes%22). Each current detail page lists exactly six distinct accessory names and a separate type. The published group total is also cross-checked with Larva Labs’ catalog and archive count table. This is not an independent full-dataset frequency or rarity audit. Recommendations #4121, #8152, and #2202 are curatorial opinions, not finalized assignments.
+## Validation and restrictions
 
-Composition No. 8348, all metadata files, all images, and every CSV row are unchanged. The gallery retains one approved artwork and 19 placeholders; its original image path and script are unchanged. Source links and repository paths were checked. Rights review remains pending. Pages is disabled; no deployment, minting, or Study 02 artwork creation was performed.
+- All 20 JSON files parse. The CSV has 20 rows and seven columns. Study 02 title, source ID, six verified names, and approval status agree across records.
+- Study 01 and Studies 03–20 metadata and CSV rows are unchanged. Study 02 blockchain fields are null; commercial derivative-rights review remains pending.
+- Gallery: 20 cards, two approved images, 18 placeholders. CSS layout and `object-fit: contain` behavior are preserved; Study 01’s rendered card is unchanged. Image paths and dimensions resolve to the archived originals.
+- Source research is preserved as historical comparison, with #4121’s later approval recorded. README, gallery documentation, and protocol now reflect two completed works.
+- GitHub Pages remains disabled. No deployment workflow, contracts, or minting were added or executed. Intellectual-property and derivative-rights notices remain in place.
