@@ -1,6 +1,6 @@
 # Trait verification protocol
 
-Study 01’s seven source traits and Male type are verified. Studies 02–20 in `20-work-plan.csv` remain provisional. The current selection principle prioritizes original Punks with the **largest number of accessory traits**, excluding character type. Study 02 research covers the official six-trait group; no candidate is selected yet.
+Study 01’s seven source traits and Study 02’s six source traits, both Male type, are verified. Both artworks are artist-approved. Studies 03–20 in `20-work-plan.csv` remain provisional. The current selection principle prioritizes original Punks with the **largest number of accessory traits**, excluding character type. Study 02 research covered the official six-trait group; the artist subsequently selected #4121 and approved Composition No. 4121.
 
 Trait frequencies and rarity rankings have not been independently verified. The following collection-wide procedure is required before claiming independent frequency or rarity results:
 
@@ -13,3 +13,7 @@ Trait frequencies and rarity rankings have not been independently verified. The 
 7. Store for every completed study: source ID, source trait list, original artist interpretation, material/chromatic decisions, and a SHA-256 checksum.
 
 **Selection decision:** prioritize the number of accessory traits per original Punk, not the frequency of individual trait types. See [Study 02 candidate research](study-02-candidate-research.md). Source selection, artwork creation, and publication remain separate approvals.
+
+## Artistic principle
+
+Preserve the original CryptoPunk silhouette, head proportions, facial structure, and neck extending directly to the lower canvas boundary. Apply geometric abstraction primarily through internal color planes and structural divisions. Do not introduce additional shoulders or artificial neck extensions.

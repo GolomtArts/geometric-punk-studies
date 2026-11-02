@@ -3,16 +3,32 @@
   "series": "Geometric Punk Studies",
   "artist": "Astral Lyrism",
   "work_number": 2,
-  "working_title": "Angular Shades",
-  "status": "planned",
-  "edition": "1/1 (proposed; not minted)",
-  "description": "Original geometric abstraction study using primary-color composition and bold black partitions, informed by the concept of trait-based portraiture.",
+  "working_title": "Composition No. 4121",
+  "status": "artist-approved",
+  "edition": "1/1 (planned, not minted)",
+  "description": "Composition No. 4121 by Astral Lyrism, artwork 02/20 in Geometric Punk Studies. An artist-approved final geometric abstraction of CryptoPunk #4121, inspired by Piet Mondrian and De Stijl, using primary-color planes and bold structural divisions while preserving the source silhouette and facial and neck structure. Edition 1/1 planned, not minted. Commercial derivative-rights review pending.",
   "reference": {
     "source_collection": "CryptoPunks",
-    "source_punk_id": null,
-    "source_traits_verified": [],
-    "candidate_trait_for_research": "3D Glasses",
-    "source_attribution": "Larva Labs; original source imagery and usage rights require verification"
+    "source_punk_id": 4121,
+    "source_traits_verified": [
+      "Spots",
+      "Silver Chain",
+      "Chinstrap",
+      "Earring",
+      "Mohawk",
+      "Cigarette"
+    ],
+    "candidate_trait_for_research": "Mohawk",
+    "source_attribution": "Larva Labs; source type and six trait names verified against the official CryptoPunks detail page. Commercial derivative-rights review pending.",
+    "source_type": "Male",
+    "source_selection": "Artist-selected and approved CryptoPunk #4121.",
+    "source_verification": {
+      "verified_on": "2026-11-03",
+      "sources": [
+        "https://www.cryptopunks.app/cryptopunks/details/4121"
+      ],
+      "method": "Checked Male type, explicit six-attribute count, and six distinct displayed names against the official detail page. No discrepancy with artist-provided information; no rarity statistics inferred."
+    }
   },
   "visual_language": {
     "palette": [
@@ -27,12 +43,24 @@
       "primary-color planes",
       "heavy black linear partitions",
       "asymmetric balancing"
-    ]
+    ],
+    "style": "Geometric abstraction inspired by Piet Mondrian and De Stijl",
+    "artistic_principle": "Preserve the original CryptoPunk silhouette, head proportions, facial structure, and neck extending directly to the lower canvas boundary. Apply geometric abstraction primarily through internal color planes and structural divisions. Do not introduce additional shoulders or artificial neck extensions."
   },
   "artwork": {
-    "filename": null,
-    "sha256": null,
-    "dimensions": null
+    "filename": "assets/works/composition-no-4121.png",
+    "sha256": "b6d63e83b310b124cdbd593a5da7e27c939c854f8c5df1f7ad4a5578eb24c25d",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "unit": "px"
+    },
+    "format": "PNG",
+    "mime_type": "image/png",
+    "file_size_bytes": 1437315,
+    "color_mode": "RGB",
+    "bits_per_channel": 8,
+    "is_final": true
   },
   "blockchain": {
     "network": null,
@@ -40,5 +68,7 @@
     "token_id": null,
     "transaction_hash": null
   },
-  "rights_review": "pending"
+  "rights_review": "pending",
+  "title": "Composition No. 4121",
+  "artwork_number": "02/20"
 }

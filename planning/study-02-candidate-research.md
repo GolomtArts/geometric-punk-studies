@@ -1,6 +1,6 @@
 # Study 02 candidate research
 
-Researched 2026-11-02 for Astral Lyrism’s Geometric Punk Studies. **Recommendations only: no source, title, or artwork is approved for Study 02.**
+Researched 2026-11-02 for Astral Lyrism’s Geometric Punk Studies. **Decision update, 2026-11-03: the artist selected CryptoPunk #4121 and approved the final artwork Composition No. 4121 (02/20).** The comparisons and recommendations below are the historical research leading to that choice. See [Study 02 metadata](../metadata/study-02.json) for the approved record.
 
 ## Selection rule and verification
 
@@ -46,7 +46,7 @@ These are curatorial judgments based on the official candidate images and verifi
 | #6153 | Messy Hair, Horned Rim Glasses, Medical Mask, and Clown Nose produce dense overlapping face regions. | Translate glasses and mask into intersecting planes while keeping the hair contour. | Do not expose an invented beard under the mask; six recorded traits need not all be visible. | Technically interesting, less readable at a small gallery size. |
 | #7920 | Crazy Hair and VR establish a jagged crown and broad eye block; Clown Nose, lips, cheeks, and cigarette crowd the face. | Contrast a stepped red crown, blue visor, and white facial spaces. | High risk of merging nose, cheeks, mouth, and cigarette into decoration. | Expressive reserve, highest simplification challenge. |
 
-## Three recommendations — approval pending
+## Historical recommendations — before artist approval
 
 1. **CryptoPunk #4121:** prioritize the mohawk, original profile, Chinstrap, neck, and Silver Chain. Its vertical silhouette and horizontal cigarette offer a strong alternative to #8348’s top-hat structure.
 2. **CryptoPunk #8152:** prioritize cap width, eye-patch asymmetry, beard perimeter, and neck/chain relationship. Separate dark facial hair from primary-color structural planes.
@@ -60,4 +60,4 @@ These are alternative references for one artwork, not approved assignments or fi
 - Some Larva Labs filtered URLs returned HTTP 403 or could not be retrieved through the search tool. The unfiltered catalog and archive count table were accessible through browsing, and the current official six-trait search plus all 11 individual detail pages supplied the complete candidate inventory.
 - Preserve **Tassle Hat** exactly as displayed for #5949. Do not silently change it to “Tassel Hat.” The current site displays **Goat** for #6153, while the newer Larva Labs catalog’s facial-hair taxonomy uses **Goatee**. This table follows the current detail-page label, rather than mixing taxonomies. No inference about an additional trait is made.
 - A versioned authoritative bulk dataset was not obtained or audited. Completeness here is bounded to the official published six-attribute result set and its detail pages. Counts are source-published and individually checked, not independently derived across all 10,000 records.
-- Commercial derivative-rights and provenance review remain pending. Research does not establish a reuse license. Study 02 metadata and the work-plan CSV remain unchanged; no artwork was generated. GitHub Pages remains inactive, and no contracts were deployed or NFTs minted.
+- Commercial derivative-rights and provenance review remain pending. Research does not establish a reuse license. At the research stage, Study 02 metadata and the work-plan CSV remained unchanged and no artwork was generated. The subsequent artist-approved image is now archived without modification. GitHub Pages remains inactive, and no contracts were deployed or NFTs minted.
