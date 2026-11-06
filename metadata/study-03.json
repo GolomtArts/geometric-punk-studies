@@ -3,16 +3,32 @@
   "series": "Geometric Punk Studies",
   "artist": "Astral Lyrism",
   "work_number": 3,
-  "working_title": "Redline Mohawk",
-  "status": "planned",
-  "edition": "1/1 (proposed; not minted)",
-  "description": "Original geometric abstraction study using primary-color composition and bold black partitions, informed by the concept of trait-based portraiture.",
+  "working_title": "Composition No. 2202",
+  "status": "artist-approved",
+  "edition": "1/1 (planned, not minted)",
+  "description": "Composition No. 2202 by Astral Lyrism, artwork 03/20 in Geometric Punk Studies. An artist-approved final geometric abstraction of CryptoPunk #2202, inspired by Piet Mondrian and De Stijl, interpreting digital identity through primary-color planes, geometric relationships, and bold structural divisions. Edition 1/1 planned, not minted. Commercial derivative-rights review pending.",
   "reference": {
     "source_collection": "CryptoPunks",
-    "source_punk_id": null,
-    "source_traits_verified": [],
-    "candidate_trait_for_research": "Mohawk",
-    "source_attribution": "Larva Labs; original source imagery and usage rights require verification"
+    "source_punk_id": 2202,
+    "source_traits_verified": [
+      "Hot Lipstick",
+      "Mole",
+      "Choker",
+      "Earring",
+      "Straight Hair",
+      "Classic Shades"
+    ],
+    "candidate_trait_for_research": "Straight Hair",
+    "source_attribution": "Larva Labs; Female type and six trait names verified against the official CryptoPunks detail page. Commercial derivative-rights review pending.",
+    "source_type": "Female",
+    "source_selection": "Artist-selected and approved CryptoPunk #2202.",
+    "source_verification": {
+      "verified_on": "2026-11-06",
+      "sources": [
+        "https://www.cryptopunks.app/cryptopunks/details/2202"
+      ],
+      "method": "Official detail page retrieved with HTTP 200. Checked Female type, explicit six-accessory count, and six exact distinct displayed names. No discrepancy with artist-provided information; no frequencies or rarity statistics inferred."
+    }
   },
   "visual_language": {
     "palette": [
@@ -27,12 +43,23 @@
       "primary-color planes",
       "heavy black linear partitions",
       "asymmetric balancing"
-    ]
+    ],
+    "style": "Geometric abstraction inspired by Piet Mondrian and De Stijl"
   },
   "artwork": {
-    "filename": null,
-    "sha256": null,
-    "dimensions": null
+    "filename": "assets/works/composition-no-2202.png",
+    "sha256": "1ce66ee1e05cc03811a5b0e4739b1ae3b220a05b23ea1f4e6503834772f92231",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "unit": "px"
+    },
+    "format": "PNG",
+    "mime_type": "image/png",
+    "file_size_bytes": 1356600,
+    "color_mode": "RGB",
+    "bits_per_channel": 8,
+    "is_final": true
   },
   "blockchain": {
     "network": null,
@@ -40,5 +67,7 @@
     "token_id": null,
     "transaction_hash": null
   },
-  "rights_review": "pending"
+  "rights_review": "pending",
+  "title": "Composition No. 2202",
+  "artwork_number": "03/20"
 }
