@@ -1,6 +1,6 @@
 # Artwork validation review
 
-Reviewed 2026-11-06. **Three artist-approved artworks out of twenty.** Studies 04–20 remain provisional.
+Reviewed 2026-11-06. **Four artist-approved artworks out of twenty.** Studies 05–20 remain provisional.
 
 ## Approved inventory
 
@@ -9,6 +9,7 @@ Reviewed 2026-11-06. **Three artist-approved artworks out of twenty.** Studies 0
 | 01/20 | Composition No. 8348 | CryptoPunk #8348 / Male | Artist-approved | 1/1 planned, not minted |
 | 02/20 | Composition No. 4121 | CryptoPunk #4121 / Male | Artist-approved, final artwork | 1/1 planned, not minted |
 | 03/20 | Composition No. 2202 | CryptoPunk #2202 / Female | Artist-approved, final artwork | 1/1 planned, not minted |
+| 04/20 | Composition No. 7971 | CryptoPunk #7971 / Female | Artist-approved, final artwork | 1/1 planned, not minted |
 
 ## Image integrity
 
@@ -18,9 +19,13 @@ Reviewed 2026-11-06. **Three artist-approved artworks out of twenty.** Studies 0
 - #4121 SHA-256: `b6d63e83b310b124cdbd593a5da7e27c939c854f8c5df1f7ad4a5578eb24c25d`.
 - #2202: supplied file is PNG, 1254 × 1254 px, RGB, 8 bits/channel, 1,356,600 bytes. Archived at `assets/works/composition-no-2202.png` and mirrored at `docs/assets/composition-no-2202.png`; both are byte-identical to the attachment. No conversion or image modifications.
 - #2202 SHA-256: `1ce66ee1e05cc03811a5b0e4739b1ae3b220a05b23ea1f4e6503834772f92231`.
+- #7971: original PNG, 1254 × 1254 px, RGB, 8 bits/channel, 1,329,324 bytes. Archived at `assets/works/composition-no-7971.png` and mirrored at `docs/assets/composition-no-7971.png`; both match the attachment byte for byte. No conversion or other image modification.
+- #7971 SHA-256: `8010bbd1c888f2c8cb06c6948cad2ae5869093dc94a78469c13e33dbcc61a298`.
 - Earlier style-reference JPEGs remain separate and unchanged.
 
 ## Source verification
+
+On 2026-11-06, direct retrieval of the [official CryptoPunks #7971 page](https://www.cryptopunks.app/cryptopunks/details/7971) returned HTTP 200 and confirmed **Female** type and exactly six accessory traits: **Black Lipstick, Mole, Earring, Wild Hair, Cigarette, Big Shades**. Exact names match the artist-provided information; no discrepancies were found. Female is recorded separately from accessories. The browsing tool returned HTTP 403 for the same URL; the successful direct retrieval supplied the evidence. No frequencies or rarity statistics were inferred.
 
 On 2026-11-06, the [official CryptoPunks #2202 page](https://www.cryptopunks.app/cryptopunks/details/2202) returned HTTP 200 and confirmed **Female** type and exactly six accessory traits: **Hot Lipstick, Mole, Choker, Earring, Straight Hair, Classic Shades**. Type is recorded separately from accessories. The exact names match the artist-provided information; no discrepancies were found. This does not establish independently verified frequencies or rarity rankings.
 
@@ -36,10 +41,10 @@ Preserve the original CryptoPunk silhouette, head proportions, facial structure,
 
 ## Validation and restrictions
 
-- All 20 JSON files parse. The CSV has 20 rows and seven columns. All three titles, artwork numbers, source IDs, and image paths agree across metadata, CSV, README, and gallery; Study 03’s six verified names and approval status agree across its JSON and CSV row.
-- Studies 01–02 and 04–20 metadata and CSV rows are unchanged. All blockchain fields remain null; commercial derivative-rights review remains pending.
-- Gallery: 20 cards, three artwork images, 17 forthcoming placeholders. CSS layout, image paths, and `object-fit: contain` behavior are preserved; public card captions now show artwork number, source reference, and edition. Image paths and dimensions resolve to the archived originals.
-- Source research is preserved as historical comparison, with #4121’s later approval recorded. README and protocol now reflect three completed works.
+- All 20 JSON files parse. The CSV has 20 rows and seven columns. All four titles, artwork numbers, source IDs, and image paths agree across metadata, CSV, README, and gallery; Study 04’s six verified names and approval status agree across its JSON and CSV row.
+- Studies 01–03 and 05–20 metadata and CSV rows are unchanged. All blockchain fields remain null; commercial derivative-rights review remains pending.
+- Gallery: 20 cards, four artwork images, 16 forthcoming placeholders. CSS layout, image paths, and `object-fit: contain` behavior are preserved; public card captions now show artwork number, source reference, and edition. Image paths and dimensions resolve to the archived originals.
+- Source research is preserved as historical comparison, with #4121’s later approval recorded. README and protocol now reflect four completed works.
 - GitHub Pages remains disabled. No deployment workflow, contracts, or minting were added or executed. Intellectual-property and derivative-rights notices remain in place.
 
 ## Public catalogue presentation — 2026-11-03 (historical validation)
@@ -52,10 +57,18 @@ Research, verified traits and types, provenance information, and technical recor
 
 Validation: all artwork and reference images, filenames, SHA-256 values, all 20 metadata records, and the full CSV are unchanged. The gallery retains 20 cards, two original artwork images, and 18 forthcoming placeholders. Existing CSS and image-display behavior are unchanged; JSON, image paths, local documentation links, HTML nesting, and gallery JavaScript are checked.
 
-## Third artwork archive — 2026-11-06
+## Third artwork archive — 2026-11-06 (historical validation)
 
 Composition No. 2202 is archived as artwork 03/20, artist-approved final artwork, edition 1/1 planned and not minted. PNG signature, image data, dimensions, RGB mode, bit depth, byte size, and SHA-256 were checked. Original and gallery copy match the supplied attachment byte for byte. The archived originals and gallery copies of Composition No. 8348 and Composition No. 4121 remain byte-identical to main before this update, with the same recorded checksums.
 
 All 20 JSON metadata files parse; CSV retains exactly 20 artwork records and seven columns. Only Study 03’s JSON and CSV row change. Existing gallery CSS, responsive layout, and image fitting are preserved; the first two cards and Studies 04–20 render identically. The gallery contains three artworks and 17 forthcoming placeholders. Local links, HTML nesting, gallery JavaScript, artwork filenames, and recorded image dimensions are checked.
 
 The public four-column table and Artistic Vision are preserved; no internal revision notes, approval-status columns, production instructions, or technical creation constraints were added to README or gallery. Copyright, attribution, and derivative-rights notices remain intact. Commercial derivative-rights review remains pending. No NFT has been minted or smart contract deployed by this update; blockchain fields remain null. GitHub Pages remains disabled.
+
+## Fourth artwork archive — 2026-11-06
+
+Composition No. 7971 is archived as artwork 04/20, artist-approved final artwork, edition 1/1 planned and not minted. Original PNG format, RGB mode, dimensions, bit depth, file size, and SHA-256 are recorded above. PNG integrity and byte equality with the attachment and gallery copy were checked. Composition No. 8348, Composition No. 4121, and Composition No. 2202 originals, gallery copies, and metadata are unchanged from main before this update. Earlier style references remain intact.
+
+All 20 metadata JSON files parse. The planning CSV retains exactly 20 records and seven columns; only Study 04’s row changes. All four titles, artwork numbers, source IDs, verified traits, filenames, dimensions, file sizes, and SHA-256 values agree across the records. Gallery JavaScript renders four artworks and 16 forthcoming placeholders; its first three cards and Studies 05–20 render identically. CSS, responsive layout, image fitting, Artistic Vision, and Rights and Attribution remain unchanged. HTML structure, image paths, local documentation links, and whitespace checks pass.
+
+No internal revision notes or production instructions were added to public presentation. Commercial derivative-rights review remains pending, and all blockchain fields remain null. GitHub Pages remains disabled. No contract deployment or NFT minting was performed.
