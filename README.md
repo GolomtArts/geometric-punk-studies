@@ -12,15 +12,16 @@ Drawing upon the visual legacy of Piet Mondrian and De Stijl, Astral Lyrism rein
 
 Each work establishes a dialogue between the cultural language of early digital collectibles and the enduring principles of abstract art, transforming familiar digital identities into new visual expressions.
 
-## Artworks — 3 of 20
+## Artworks — 4 of 20
 
 | Artwork | Title | Reference | Edition |
 | --- | --- | --- | --- |
 | 01/20 | [Composition No. 8348](assets/works/composition-no-8348.png) | CryptoPunk #8348 | 1/1 |
 | 02/20 | [Composition No. 4121](assets/works/composition-no-4121.png) | CryptoPunk #4121 | 1/1 |
 | 03/20 | [Composition No. 2202](assets/works/composition-no-2202.png) | CryptoPunk #2202 | 1/1 |
+| 04/20 | [Composition No. 7971](assets/works/composition-no-7971.png) | CryptoPunk #7971 | 1/1 |
 
-No NFTs have been minted. Studies 04–20 are forthcoming.
+No NFTs have been minted. Studies 05–20 are forthcoming.
 
 ## Research and Provenance
 

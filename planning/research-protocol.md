@@ -1,6 +1,6 @@
 # Trait verification protocol
 
-Study 01’s seven source traits and Male type, Study 02’s six source traits and Male type, and Study 03’s six source traits and Female type are verified. All three artworks are artist-approved. Studies 04–20 in `20-work-plan.csv` remain provisional. The current selection principle prioritizes original Punks with the **largest number of accessory traits**, excluding character type. Study 02 research covered the official six-trait group; the artist subsequently selected #4121 and approved Composition No. 4121.
+Study 01’s seven source traits and Male type, Study 02’s six source traits and Male type, and Studies 03–04’s six source traits each and Female types are verified. All four artworks are artist-approved. Studies 05–20 in `20-work-plan.csv` remain provisional. The current selection principle prioritizes original Punks with the **largest number of accessory traits**, excluding character type. Study 02 research covered the official six-trait group; the artist subsequently selected #4121 and approved Composition No. 4121.
 
 Trait frequencies and rarity rankings have not been independently verified. The following collection-wide procedure is required before claiming independent frequency or rarity results:
 

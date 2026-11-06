@@ -3,16 +3,33 @@
   "series": "Geometric Punk Studies",
   "artist": "Astral Lyrism",
   "work_number": 4,
-  "working_title": "Primary Beanie",
-  "status": "planned",
-  "edition": "1/1 (proposed; not minted)",
-  "description": "Original geometric abstraction study using primary-color composition and bold black partitions, informed by the concept of trait-based portraiture.",
+  "working_title": "Composition No. 7971",
+  "status": "artist-approved",
+  "edition": "1/1 (planned, not minted)",
+  "description": "Composition No. 7971 by Astral Lyrism, artwork 04/20 in Geometric Punk Studies. An artist-approved final geometric abstraction of CryptoPunk #7971, inspired by Piet Mondrian and De Stijl, interpreting digital identity through geometric relationships, primary-color planes, and bold structural divisions. Edition 1/1 planned, not minted. Commercial derivative-rights review pending.",
   "reference": {
     "source_collection": "CryptoPunks",
-    "source_punk_id": null,
-    "source_traits_verified": [],
-    "candidate_trait_for_research": "Beanie",
-    "source_attribution": "Larva Labs; original source imagery and usage rights require verification"
+    "source_punk_id": 7971,
+    "source_traits_verified": [
+      "Black Lipstick",
+      "Mole",
+      "Earring",
+      "Wild Hair",
+      "Cigarette",
+      "Big Shades"
+    ],
+    "candidate_trait_for_research": "Wild Hair",
+    "source_attribution": "Larva Labs; Female type and six trait names verified against the official CryptoPunks detail page. Commercial derivative-rights review pending.",
+    "source_type": "Female",
+    "source_selection": "Artist-selected and approved CryptoPunk #7971.",
+    "source_verification": {
+      "verified_on": "2026-11-06",
+      "sources": [
+        "https://www.cryptopunks.app/cryptopunks/details/7971"
+      ],
+      "method": "Direct retrieval returned HTTP 200. Checked Female type, explicit six-accessory count, and six exact distinct displayed names. No discrepancy with artist-provided information; no frequencies or rarity statistics inferred.",
+      "access_note": "The browsing tool returned HTTP 403; direct retrieval of the same official URL succeeded and supplied the verification evidence."
+    }
   },
   "visual_language": {
     "palette": [
@@ -27,12 +44,23 @@
       "primary-color planes",
       "heavy black linear partitions",
       "asymmetric balancing"
-    ]
+    ],
+    "style": "Geometric abstraction inspired by Piet Mondrian and De Stijl"
   },
   "artwork": {
-    "filename": null,
-    "sha256": null,
-    "dimensions": null
+    "filename": "assets/works/composition-no-7971.png",
+    "sha256": "8010bbd1c888f2c8cb06c6948cad2ae5869093dc94a78469c13e33dbcc61a298",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "unit": "px"
+    },
+    "format": "PNG",
+    "mime_type": "image/png",
+    "file_size_bytes": 1329324,
+    "color_mode": "RGB",
+    "bits_per_channel": 8,
+    "is_final": true
   },
   "blockchain": {
     "network": null,
@@ -40,5 +68,7 @@
     "token_id": null,
     "transaction_hash": null
   },
-  "rights_review": "pending"
+  "rights_review": "pending",
+  "title": "Composition No. 7971",
+  "artwork_number": "04/20"
 }
