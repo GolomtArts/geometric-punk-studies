@@ -3,16 +3,34 @@
   "series": "Geometric Punk Studies",
   "artist": "Astral Lyrism",
   "work_number": 5,
-  "working_title": "Framed Vision",
-  "status": "planned",
-  "edition": "1/1 (proposed; not minted)",
-  "description": "Original geometric abstraction study using primary-color composition and bold black partitions, informed by the concept of trait-based portraiture.",
+  "working_title": "Composition No. 8152",
+  "status": "artist-approved",
+  "edition": "1/1 (planned, not minted)",
+  "description": "Composition No. 8152 by Astral Lyrism, artwork 05/20 in Geometric Punk Studies. An artist-approved final geometric abstraction referencing CryptoPunk #8152, inspired by Piet Mondrian and De Stijl, exploring digital identity through geometric relationships, color planes, and structural composition. Edition 1/1 planned, not minted. Commercial derivative-rights review pending.",
   "reference": {
     "source_collection": "CryptoPunks",
-    "source_punk_id": null,
-    "source_traits_verified": [],
-    "candidate_trait_for_research": "Regular Shades",
-    "source_attribution": "Larva Labs; original source imagery and usage rights require verification"
+    "source_punk_id": 8152,
+    "source_traits_verified": [
+      "Smile",
+      "Gold Chain",
+      "Luxurious Beard",
+      "Earring",
+      "Knitted Cap",
+      "Eye Patch"
+    ],
+    "candidate_trait_for_research": "Knitted Cap",
+    "source_attribution": "Larva Labs; Male type and six trait names verified against the official CryptoPunks detail page. Commercial derivative-rights review pending.",
+    "source_type": "Male",
+    "source_selection": "Artist-selected and approved CryptoPunk #8152.",
+    "source_verification": {
+      "verified_on": "2026-11-06",
+      "sources": [
+        "https://www.cryptopunks.app/cryptopunks/details/8152"
+      ],
+      "method": "Direct retrieval returned HTTP 200. Checked Male type, explicit six-accessory count, and six exact distinct displayed names. No discrepancy with artist-provided information; no frequencies or rarity statistics inferred.",
+      "access_note": "The browsing tool could not access this URL; direct retrieval of the same official URL succeeded and supplied the verification evidence."
+    },
+    "interpretation_note": "Verified source attributes describe the original CryptoPunk; the artwork is a geometric reinterpretation, not a literal inventory of its visible elements."
   },
   "visual_language": {
     "palette": [
@@ -27,12 +45,23 @@
       "primary-color planes",
       "heavy black linear partitions",
       "asymmetric balancing"
-    ]
+    ],
+    "style": "Geometric abstraction inspired by Piet Mondrian and De Stijl"
   },
   "artwork": {
-    "filename": null,
-    "sha256": null,
-    "dimensions": null
+    "filename": "assets/works/composition-no-8152.png",
+    "sha256": "924ebd6bfaccec03f85728c1d33e749f5a8bb481057aab3cd788108566be7ac5",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "unit": "px"
+    },
+    "format": "PNG",
+    "mime_type": "image/png",
+    "file_size_bytes": 1348182,
+    "color_mode": "RGB",
+    "bits_per_channel": 8,
+    "is_final": true
   },
   "blockchain": {
     "network": null,
@@ -40,5 +69,7 @@
     "token_id": null,
     "transaction_hash": null
   },
-  "rights_review": "pending"
+  "rights_review": "pending",
+  "title": "Composition No. 8152",
+  "artwork_number": "05/20"
 }
